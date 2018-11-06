@@ -1,5 +1,13 @@
-Thu Nov 01 10:59:07 CST 2018 : Advertencia: UnknkownHostException: linux-hqg8: linux-hqg8: Name or service not known.
-Thu Nov 01 10:59:07 CST 2018 : Servidor de red Apache Derby: Se ha iniciado 10.11.1.2 - (1629631) y está listo para aceptar las conexiones en el puerto 1527
 ----------------------------------------------------------------
-Thu Nov 01 10:59:49 CST 2018: cerrando motor de Derby
-----------------------------------------------------------------
+Mon Nov 05 21:58:11 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-e72b-aa33-000003e10fb0 
+on database directory /home/emilio/NetBeansProjects/ControlCarteraMaven/cartera with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Loaded from file:/home/emilio/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/emilio/NetBeansProjects/ControlCarteraMaven
+os.name=Linux
+os.arch=amd64
+os.version=4.12.14-lp150.12.22-default
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
